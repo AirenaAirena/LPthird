@@ -1,0 +1,37 @@
+/* font-family: "GothamProBold"; */
+@font-face {
+	font-family: "GothamProBold";
+	src: url("../fonts/GothamProBold/GothamProBold.eot");
+	src: url("../fonts/GothamProBold/GothamProBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/GothamProBold/GothamProBold.woff") format("woff"),
+	url("../fonts/GothamProBold/GothamProBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
+	/* font-family: "pfencoresanspro-bold-webfont"; */
+@font-face {
+	font-family: "pfencoresanspro-bold-webfont";
+	src:url("../fonts/pfencoresanspro-bold-webfont/pfencoresanspro-bold-webfont.woff") format("woff"),
+	url("../fonts/pfencoresanspro-bold-webfont/pfencoresanspro-bold-webfont.woff2") format("woff2"),
+	src:url("../fonts/pfencoresanspro-bold-webfont/pfencoresanspro-bold-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
+
+	/* font-family: "pfencoresanspro-light-webfont"; */
+@font-face {
+	font-family: "pfencoresanspro-light-webfont";
+	src:url("../fonts/pfencoresanspro-light-webfont/pfencoresanspro-light-webfont.woff") format("woff"),
+	url("../fonts/pfencoresanspro-light-webfont/pfencoresanspro-light-webfont.woff2") format("woff2");
+	font-style: normal;
+	font-weight:200;
+}
+
+	/* font-family: "pfencoresanspro-bold-webfont"; */
+@font-face {
+	font-family: "pfencoresanspro-medium-webfont";
+	src:url("../fonts/pfencoresanspro-medium-webfont/pfencoresanspro-medium-webfont.woff") format("woff"),
+	url("../fonts/pfencoresanspro-medium-webfont/pfencoresanspro-medium-webfont.woff2") format("woff2"),
+	src:url("../fonts/pfencoresanspro-medium-webfont/pfencoresanspro-medium-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 500;
